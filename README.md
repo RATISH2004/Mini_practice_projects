@@ -6,4 +6,4 @@ While I refer to these as "mini projects," they are more than just code snippets
 These transparent and unmodified notebooks serve as a testament to my dedication and curiosity in the field. They capture the essence of my exploration and the challenges I faced along the way.
 
 ## Dive In and Explore!
-Feel free to check them out! I hope you find inspiration in my journey, and perhaps even spark your own curiosity in the world of data science. Let’s learn and grow together!
+
